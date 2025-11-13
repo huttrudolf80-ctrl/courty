@@ -1,0 +1,64 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "中国",
+      "name_en": "China",
+      "code": "CN",
+      "capital": "北京",
+      "capital_en": "Beijing",
+      "population": 1411778724,
+      "area_km2": 9596961,
+      "continent": "亚洲",
+      "continent_en": "Asia"
+    },
+    {
+      "id": 2,
+      "name": "美国",
+      "name_en": "United States",
+      "code": "US",
+      "capital": "华盛顿",
+      "capital_en": "Washington D.C.",
+      "population": 331893745,
+      "area_km2": 9833517,
+      "continent": "北美洲",
+      "continent_en": "North America"
+    },
+    {
+      "id": 3,
+      "name": "日本",
+      "name_en": "Japan",
+      "code": "JP",
+      "capital": "东京",
+      "capital_en": "Tokyo",
+      "population": 125584838,
+      "area_km2": 377975,
+      "continent": "亚洲",
+      "continent_en": "Asia"
+    },
+    {
+      "id": 4,
+      "name": "英国",
+      "name_en": "United Kingdom",
+      "code": "GB",
+      "capital": "伦敦",
+      "capital_en": "London",
+      "population": 67886004,
+      "area_km2": 242495,
+      "continent": "欧洲",
+      "continent_en": "Europe"
+    },
+    {
+      "id": 5,
+      "name": "法国",
+      "name_en": "France",
+      "code": "FR",
+      "capital": "巴黎",
+      "capital_en": "Paris",
+      "population": 67407241,
+      "area_km2": 551695,
+      "continent": "欧洲",
+      "continent_en": "Europe"
+    }
+  ]
+}
