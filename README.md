@@ -40,7 +40,14 @@ asian = courty.search_countries(continent="亚洲")
 ### 运行示例 / Run Example
 
 ```bash
+# 运行主示例 / Run main example
 python3 courty.py
+
+# 运行交互式演示 / Run interactive demo
+python3 demo.py
+
+# 运行测试 / Run tests
+python3 test_courty.py
 ```
 
 ## 数据结构 / Data Structure
